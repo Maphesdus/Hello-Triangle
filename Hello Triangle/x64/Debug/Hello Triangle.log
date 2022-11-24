@@ -1,0 +1,4 @@
+﻿  Hello Triangle.cpp
+C:\Users\nanob\OneDrive\Documents\C++\Hello Triangle\Hello Triangle.cpp(28,14): error C2731: 'wWinMain': function cannot be overloaded
+C:\Users\nanob\OneDrive\Documents\C++\Hello Triangle\Hello Triangle.cpp(28): message : see declaration of 'wWinMain'
+C:\Users\nanob\OneDrive\Documents\C++\Hello Triangle\Hello Triangle.cpp(78,13): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
